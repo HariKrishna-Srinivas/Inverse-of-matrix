@@ -1,6 +1,7 @@
 # Inverse-of-matrix
 
-AIM:To find Inverse-of-matrix
+AIM:To find Inverse-of-matriV
+
 ALGORITHM:
 Step 1:import numpy as np
 Step 2:create an empty lists
